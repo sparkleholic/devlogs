@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://sparkleholic.github.io/devlogs/development/quick_start/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/development/hello/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/category4/test4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/category3/test3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/category2/test2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/category1/test1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/essay/test1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/development/second/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/development/third/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sparkleholic.github.io/devlogs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/development/quick_start/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/development/hello/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/category4/test4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/category3/test3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/category1/test1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/category2/test2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test9/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/essay/test1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/development/second/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/development/third/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sparkleholic.github.io/devlogs/devlogs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
